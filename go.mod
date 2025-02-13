@@ -1,4 +1,4 @@
-module github.com/oapi-codegen/oapi-codegen/v2
+module github.com/cosban/oapi-codegen
 
 go 1.21.0
 
